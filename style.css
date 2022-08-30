@@ -73,7 +73,7 @@ main {
 .languages-container {
   display: flex;
   flex-direction: column;
-  gap: 15px;
+  gap: 20px;
 }
 
 .employment-card,
@@ -81,14 +81,15 @@ main {
   padding-left: 15px;
   display: flex;
   flex-direction: column;
-  gap: 10px;
+  gap: 15px;
 }
 
 .employment-card ul {
+  margin-top: 5px;
   padding-left: 30px;
   display: flex;
   flex-direction: column;
-  gap: 8px;
+  gap: 9px;
 }
 
 .employment-date,
